@@ -1,3 +1,5 @@
 # cloud_config
 spring cloud config test
-duan pan first commit for 20171124
+join first commit for 20171124
+join second commit for 20171124
+
